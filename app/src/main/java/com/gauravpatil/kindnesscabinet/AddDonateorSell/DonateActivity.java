@@ -348,4 +348,4 @@ public class DonateActivity extends AppCompatActivity {
         startActivity(new Intent(DonateActivity.this, HomeActivity.class));
         finish();
     }
-}
+}/* update */
